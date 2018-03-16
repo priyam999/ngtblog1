@@ -1,1 +1,2 @@
-# ngtblog1
+# ngt.github.io
+Nevergiveup Thoughts page
